@@ -1,0 +1,5 @@
+[deps]
+BenchmarkMDPs = "06717f63-3946-4931-9e87-b8f451a626bb"
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+DiscreteValueIteration = "4b033969-44f6-5439-a48b-c11fa3648068"
+PolicyIteration = "97780011-812c-4cce-a84c-fd8d11a3cb4a"
