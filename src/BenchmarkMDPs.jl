@@ -1,5 +1,5 @@
 module BenchmarkMDPs
-using POMDPs, POMDPModels
+using POMDPs, POMDPModels, POMDPLinter
 using POMDPTools
 
 export
