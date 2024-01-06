@@ -1,0 +1,7 @@
+name = "BenchmarkMDPs"
+uuid = "06717f63-3946-4931-9e87-b8f451a626bb"
+authors = ["sarulinkaa82"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.7"

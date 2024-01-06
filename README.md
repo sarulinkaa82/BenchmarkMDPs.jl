@@ -1,1 +1,1 @@
-# BenchmarkMDPs.jl
+# BenchmarkMDPs [![Build Status](https://github.com/sarulinkaa82/BenchmarkMDPs.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/sarulinkaa82/BenchmarkMDPs.jl/actions/workflows/CI.yml?query=branch%3Amain)
