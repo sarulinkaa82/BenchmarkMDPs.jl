@@ -23,7 +23,7 @@ Base.@kwdef struct CustomDomain <: MDP{GWCoords, Symbol}
 end
 
 # init domain like:
-# filepath = open("C:/repos/jukia_solvers/PolicyIteration.jl/examples/maze-7-A1.txt", "r")
+# filepath = "C:/repos/jukia_solvers/PolicyIteration.jl/examples/maze-7-A1.txt"
 # domain_size, grid_matrix = generate_test_domain(filepath)
 # mdp = CustomDomain(size = domain_size, grid = grid_matrix)
 function generate_test_domain(filepath::String)
@@ -52,7 +52,6 @@ end
 # domain_size, grid_matrix = generate_random_domain(size, type)
 # mdp = CustomDomain(size = domain_size, grid = grid_matrix)
 # TYPES:
-
 # gap:      tunel:      empty:
 # #######   #######     ####
 # #     #   #     #     #  #
