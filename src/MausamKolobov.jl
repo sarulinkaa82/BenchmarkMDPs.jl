@@ -5,7 +5,7 @@ using POMDPTools
 
 Base.@kwdef struct MausamKolobov <: MDP{String, String}
     # size::Integer       = 6
-    discount = 0.95
+    discount = 1
 end
 
 
